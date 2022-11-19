@@ -21,16 +21,8 @@ public class Main {
         arr1.delete("uuid1");
         System.out.println(Arrays.toString(arr1.storage));
 
-
         System.out.println(Arrays.toString(arr1.getAll()));
 
-
-        String[] intArr = new String[5];
-        intArr[0] = "str1";
-        intArr[1] = "str2";
-
-
-
-
+//        SOME COMMENT
     }
 }
