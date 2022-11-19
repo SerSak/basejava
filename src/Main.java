@@ -18,7 +18,7 @@ public class Main {
         arr1.save(r3);
 
         System.out.println(arr1.get("uuid1"));
-        arr1.delete("uuid1");
+        arr1.delete("uuid2");
         System.out.println(Arrays.toString(arr1.storage));
 
 
